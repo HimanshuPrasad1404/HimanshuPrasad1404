@@ -1,7 +1,10 @@
-<h1 align="center">Hi 👋, I'm Himanshu</h1>
-<h3 align="center">A software engineer with hands-on experience in full-stack development, UI/UX design, and building real-world, scalable solutions.</h3>
+<p align="left">Hi 👋, I'm Himanshu<br><br>A software engineer with hands-on experience in full-stack development, UI/UX design, and building real-world, scalable solutions.<br><br><br>🌱 I’m currently learning DevOps tools & practices – AWS, Docker, Kubernetes, Jenkins<br><br>👨‍💻 All of my projects are available at https://github.com/HimanshuPrasad1404<br><br>💬 Ask me about Full-stack dev,DevOps, UI/UX, Web3 projects, and organizing tech events<br><br>📫 How to reach me himanshupd2003@gmail.com</p>
 
-<p align="left">🌱 I’m currently learning DevOps tools & practices – AWS, Docker, Kubernetes, Jenkins<br><br>👨‍💻 All of my projects are available at https://github.com/HimanshuPrasad1404<br><br>💬 Ask me about Full-stack dev,DevOps, UI/UX,and organizing tech events<br><br>📫 How to reach me himanshupd2003@gmail.com</p>
+###
+
+<div align="center">
+  <img height="300" src="https://media.giphy.com/media/BoBOKNtlR8rTi/giphy.gif"  />
+</div>
 
 ###
 
@@ -41,9 +44,11 @@
 
 ###
 
-<div align="center">
-  <img height="300" src="https://media.giphy.com/media/BoBOKNtlR8rTi/giphy.gif"  />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ansh14042003/ansh14042003/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ansh14042003/ansh14042003/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ansh14042003/ansh14042003/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
@@ -56,14 +61,6 @@
   <img src="https://github-profile-trophy.vercel.app?username=ansh14042003&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ansh14042003&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ansh14042003/ansh14042003/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ansh14042003/ansh14042003/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ansh14042003/ansh14042003/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
@@ -82,7 +79,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ansh14042003/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/ansh14042003/count.svg?"  />
 </div>
 
 ###
