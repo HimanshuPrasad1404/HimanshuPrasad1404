@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
 <h3 align="center">A software engineer with hands-on experience in full-stack development, UI/UX design, and building real-world, scalable solutions.</h3>
 
-<p align="left">🌱 I’m currently learning DevOps tools & practices – AWS, Docker, Kubernetes, Jenkins<br><br>👨‍💻 All of my projects are available at https://github.com/HimanshuPrasad1404<br><br>💬 Ask me about Full-stack dev,DevOps, UI/UX, Web3 projects, and organizing tech events<br><br>📫 How to reach me himanshupd2003@gmail.com</p>
+<p align="left">🌱 I’m currently learning DevOps tools & practices – AWS, Docker, Kubernetes, Jenkins<br><br>👨‍💻 All of my projects are available at https://github.com/HimanshuPrasad1404<br><br>💬 Ask me about Full-stack dev,DevOps, UI/UX,and organizing tech events<br><br>📫 How to reach me himanshupd2003@gmail.com</p>
 
 ###
 
