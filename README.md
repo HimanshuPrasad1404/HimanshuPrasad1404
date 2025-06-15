@@ -44,6 +44,10 @@
 
 ###
 
+![Pacman](./pacman-contribution-graph.svg)
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ansh14042003/ansh14042003/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ansh14042003/ansh14042003/output/pacman-contribution-graph.svg">
